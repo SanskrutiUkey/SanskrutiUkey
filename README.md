@@ -134,7 +134,7 @@ An intelligent email support automation platform built using **FastAPI, Celery, 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SanskrutiUkey&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SanskrutiUkey&theme=github-dark&hide_border=true"/>
 
 </p>
 

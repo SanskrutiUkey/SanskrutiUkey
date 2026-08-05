@@ -150,8 +150,6 @@ An intelligent email support automation platform built using **FastAPI, Celery, 
 
 📧 **Email:** sanskrutiukey@gmail.com
 
-💼 **LinkedIn:** https:/www.linkedin.com/in/sanskruti-ukey-738479226/
-
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+💼 **LinkedIn:** https://www.linkedin.com/in/sanskruti-ukey-738479226/
 
 ⭐ Thanks for visiting my profile!

@@ -9,8 +9,8 @@ Building scalable backend systems, cloud-native applications, and AI-powered pro
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_GITHUB_URL">GitHub</a> •
+<a href="[https:/www.linkedin.com/in/sanskruti-ukey-738479226/](https://www.linkedin.com/in/sanskruti-ukey-738479226/)">LinkedIn</a> •
+<a href="[https://github.com/SanskrutiUkey](https://github.com/SanskrutiUkey)">GitHub</a> •
 <a href="mailto:sanskrutiukey@gmail.com">Email</a>
 </p>
 
@@ -30,11 +30,7 @@ I enjoy building products from **idea to production**, with experience spanning:
 
 ---
 
-# 💼 Professional Experience
-
-### Software Development Engineer — Advertalyst
-
-**Apr 2024 – Present**
+## 🚀 What I Build
 
 - 🚀 Built scalable **Node.js & TypeScript** backend services
 - 💳 Developed payment infrastructure using **Razorpay & PayU**
@@ -81,21 +77,21 @@ I enjoy building products from **idea to production**, with experience spanning:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-### AI & LLM
+## 🤖 AI & LLM
 
 - Retrieval-Augmented Generation (RAG)
-- pgvector
+- Semantic Search with pgvector
 - Cross-Encoder Reranking
-- Gemini
-- OpenAI
 - AI Agents
-- Semantic Search
+- OpenAI & Gemini APIs
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 RAG-Powered Email Support Triage
+
+🔗 Repository: https://github.com/SanskrutiUkey/RAG-Powered-Email-Support-Triage
 
 An intelligent email support automation platform built using **FastAPI, Celery, Redis, PostgreSQL (pgvector), Gemini, and OpenAI**.
 

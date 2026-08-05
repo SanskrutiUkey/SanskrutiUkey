@@ -111,20 +111,6 @@ An intelligent email support automation platform built using **FastAPI, Celery, 
 
 ---
 
-## ✈️ AI Flight Search Agent
-
-AI-powered flight search platform combining structured SQL queries with semantic vector search.
-
-### Highlights
-
-- LLM-based SQL Generation
-- Hybrid Retrieval
-- Daily Flight Data Collection
-- Cloud Scheduler Automation
-- Vector Search over PostgreSQL
-
----
-
 # 🌱 Currently Exploring
 
 - Agentic AI

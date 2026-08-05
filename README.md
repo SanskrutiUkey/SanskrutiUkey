@@ -9,8 +9,8 @@ Building scalable backend systems, cloud-native applications, and AI-powered pro
 </p>
 
 <p align="center">
-<a href="[https:/www.linkedin.com/in/sanskruti-ukey-738479226/](https://www.linkedin.com/in/sanskruti-ukey-738479226/)">LinkedIn</a> •
-<a href="[https://github.com/SanskrutiUkey](https://github.com/SanskrutiUkey)">GitHub</a> •
+<a href="https://www.linkedin.com/in/sanskruti-ukey-738479226/">LinkedIn</a> •
+<a href="https://github.com/SanskrutiUkey">GitHub</a> •
 <a href="mailto:sanskrutiukey@gmail.com">Email</a>
 </p>
 

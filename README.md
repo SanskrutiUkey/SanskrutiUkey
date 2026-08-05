@@ -1,16 +1,157 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanskruti Ukey</h1>
 
-<!--
-**SanskrutiUkey/SanskrutiUkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • Backend • Full-Stack • AI Applications
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable backend systems, cloud-native applications, and AI-powered products.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+<a href="YOUR_GITHUB_URL">GitHub</a> •
+<a href="mailto:sanskrutiukey@gmail.com">Email</a>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+I'm a **Software Engineer** with **2+ years** of experience building production applications using **Node.js, TypeScript, React, PostgreSQL, Redis, Docker, and Google Cloud**.
+
+I enjoy building products from **idea to production**, with experience spanning:
+
+- ⚙️ Backend Engineering
+- 🌐 Full-Stack Development
+- ☁️ Cloud-Native Systems
+- 🤖 AI & LLM Applications
+- 🚀 Distributed Systems
+
+---
+
+# 💼 Professional Experience
+
+### Software Development Engineer — Advertalyst
+
+**Apr 2024 – Present**
+
+- 🚀 Built scalable **Node.js & TypeScript** backend services
+- 💳 Developed payment infrastructure using **Razorpay & PayU**
+- 🏢 Built multi-tenant SaaS platforms with role-based access
+- 🤖 Developed AI-powered applications using **Gemini & OpenAI**
+- 📈 Integrated Google Ads, Meta Ads & Snapchat Ads APIs
+- ☁️ Designed CI/CD pipelines and deployed services on **Google Cloud Run**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+### AI & LLM
+
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Retrieval (Vector Search + BM25)
+- pgvector
+- Cross-Encoder Reranking
+- Gemini
+- OpenAI
+- AI Agents
+- Semantic Search
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 RAG-Powered Email Support Triage
+
+An intelligent email support automation platform built using **FastAPI, Celery, Redis, PostgreSQL (pgvector), Gemini, and OpenAI**.
+
+### Highlights
+
+- Hybrid Retrieval (Vector + BM25)
+- Cross-Encoder Reranking
+- Distributed Celery Workers
+- Fault-Tolerant Architecture
+- Dead Letter Queues
+- Human-in-the-Loop Review Dashboard
+- Idempotent Webhook Processing
+
+---
+
+## ✈️ AI Flight Search Agent
+
+AI-powered flight search platform combining structured SQL queries with semantic vector search.
+
+### Highlights
+
+- LLM-based SQL Generation
+- Hybrid Retrieval
+- Daily Flight Data Collection
+- Cloud Scheduler Automation
+- Vector Search over PostgreSQL
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI
+- Backend Architecture
+- Distributed Systems
+- Event-Driven Systems
+- Cloud Infrastructure
+- System Design
+
+---
+
+# 🤝 Open To
+
+- Backend Engineering
+- Full-Stack Engineering
+- AI Engineering
+- Cloud Engineering
+- Open Source Collaboration
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** sanskrutiukey@gmail.com
+
+💼 **LinkedIn:** https:/www.linkedin.com/in/sanskruti-ukey-738479226/
+
+🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+
+⭐ Thanks for visiting my profile!

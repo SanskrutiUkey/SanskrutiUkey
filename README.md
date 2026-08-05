@@ -122,6 +122,24 @@ An intelligent email support automation platform built using **FastAPI, Celery, 
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=SanskrutiUkey&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SanskrutiUkey&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanskrutiUkey&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
 # 🤝 Open To
 
 - Backend Engineering
